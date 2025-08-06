@@ -32,26 +32,26 @@ Method	Endpoint	Description:
 
 - GET	/users	List all users
 
--GET	/users/<id>	Get user by ID
+- GET	/users/<id>	Get user by ID
 
--POST	/users	Create a new user
+- POST	/users	Create a new user
 
--PUT	/users/<id>	Update existing user
+- PUT	/users/<id>	Update existing user
 
--DELETE	/users/<id>	Delete user
+- DELETE	/users/<id>	Delete user
 
--Use Postman or cURL to interact with these endpoints.
+- Use Postman or cURL to interact with these endpoints.
 
 
 
 🧪 Testing
 Use the following sample JSON in Postman for creating a user:
 
--json
+- json
 
--Copy
+- Copy
 
--Edit
+- Edit
 {
   "name": "John Doe",
   "email": "john@example.com"
@@ -60,22 +60,22 @@ Use the following sample JSON in Postman for creating a user:
 
 
 ✅ Prerequisites
--Python (only if running locally without Docker)
+- Python (only if running locally without Docker)
 
--Docker
+- Docker
 
--Docker Compose (optional)
+- Docker Compose (optional)
 
 
 🧾 License
 
--This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 
 🙋‍♂️ Author
 
--Suhas S
+- Suhas S
 
--GitHub: @Suhassszsz
+- GitHub: @Suhassszsz
 
 
