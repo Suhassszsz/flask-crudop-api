@@ -12,9 +12,10 @@ This project demonstrates a simple Flask-based REST API that performs basic CRUD
   
 - Compatible with Postman or any REST client for testing.
 
+
  🛠️ Project Structure
 
--flask_crudop_api/
+- flask_crudop_api/
 
 - app.py # Flask application with CRUD routes
   
