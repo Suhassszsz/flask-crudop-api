@@ -11,11 +11,11 @@ This project demonstrates a simple Flask-based REST API that performs basic CRUD
  🛠️ Project Structure
 
 flask_crudop_api/
-├── app.py # Flask application with CRUD routes
-├── requirements.txt # Python dependencies
-├── Dockerfile # Image build instructions
-├── docker-compose.yml # Multi-container setup (optional)
-└── README.md # Documentation
+- app.py # Flask application with CRUD routes
+- requirements.txt # Python dependencies
+- Dockerfile # Image build instructions
+- docker-compose.yml # Multi-container setup (optional)
+  
 
  
 🔍 API Endpoints
