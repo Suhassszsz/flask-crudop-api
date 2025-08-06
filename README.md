@@ -30,7 +30,7 @@ This project demonstrates a simple Flask-based REST API that performs basic CRUD
 🔍 API Endpoints
 Method	Endpoint	Description:
 
--GET	/users	List all users
+- GET	/users	List all users
 
 -GET	/users/<id>	Get user by ID
 
