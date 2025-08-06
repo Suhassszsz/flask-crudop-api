@@ -3,17 +3,24 @@ This project demonstrates a simple Flask-based REST API that performs basic CRUD
  📦 Features
 
 - Create, Read, Update, and Delete users.
+  
 - RESTful API using Flask.
+  
 - Data stored using SQLite (or can be switched to PostgreSQL/MySQL).
+  
 - Dockerized for quick deployment.
+  
 - Compatible with Postman or any REST client for testing.
 
  🛠️ Project Structure
 
 flask_crudop_api/
 - app.py # Flask application with CRUD routes
+  
 - requirements.txt # Python dependencies
+  
 - Dockerfile # Image build instructions
+  
 - docker-compose.yml # Multi-container setup (optional)
   
 
